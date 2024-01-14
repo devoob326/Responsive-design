@@ -1,0 +1,262 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: #121921;
+    height: 60px;
+    margin-top: 5px;
+}
+.amazonlogo{
+    margin-left: 20px;
+}
+
+.helloo{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.hello{
+    margin-bottom: -15px;
+    margin-top: 4px;
+    color: white;
+}
+
+.select{
+    color: white;
+    font-weight: bold;
+}
+
+.searchbar{
+    width: 700px;
+    height: 50px;
+    display: flex;
+}
+.btn, .type , .button{
+    height: 30px;
+}
+.type{
+    width: 500px;
+    margin-top: 15px;
+    
+}
+.btn{
+    margin-left: 70px;
+    width: 40px;
+    margin-top: 15px;
+    height: 35px;
+    background-color: white;
+}
+.button{
+    margin-right: 0px;
+    width: 40px;
+    margin-top: 15px;
+    height: 45px;
+    background-color: #ffd913;
+}
+
+.indianflag{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.signin{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.signinn{
+    margin-bottom: -15px;
+    margin-top: 4px;
+    margin-left: 10px;
+    color: white;
+}
+
+.account{
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.return{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.returns{
+    margin-bottom: -15px;
+    margin-top: 4px;
+    margin-left: 10px;
+    color: white;
+}
+
+.orders{
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.cart{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.cart{
+    color: white;
+    font-weight: bold;
+}
+
+.deals{
+    display: flex;
+    flex-direction: row;
+    background-color: #242e3e;
+    height: 40px;
+    justify-content: space-evenly;
+}
+.threelineimage{
+    margin-top: 8px;
+}
+
+.deal{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.text{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 11px;
+}
+.lion{
+    padding-right: -20px;
+}
+.prime{
+    margin-top: -20px;
+    
+}
+.primeday{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding: 0;
+    margin-bottom: -20px;
+    
+}
+
+.p{
+    height: 40px;
+    margin-left: 250px;
+}
+.immg{
+    padding: -2%;
+}
+
+.date{
+    margin-left: 320px;
+    margin-top: -20px;
+    color: white;
+    font-weight: bold;
+}
+
+.imagebb{
+    background-image: url(background\ picture.png);
+    background-repeat: no-repeat;
+    margin-top: -0px;
+}
+
+.imgback{
+    padding: 20%;
+    padding-right: 2%;
+    padding-top: 22%;
+    display: flex;
+}
+
+.first{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 430px;
+    width: 360px;
+    margin-left: -280px;
+}
+
+.images{
+    display: grid;
+    grid-template-columns: repeat(2, 200px);
+    grid-gap: 0px;
+}
+
+.second{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 430px;
+    width: 370px;
+    margin-left: 30px;
+}
+
+.images1{
+    display: grid;
+    grid-template-columns: repeat(2, 200px);
+    grid-gap: 0px;
+}
+
+.third{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 450px;
+    width: 350px;
+    margin-left: 30px;
+}
+
+.fourth{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 200px;
+    width: 500px;
+    margin-left: 30px;
+}
+
+.fifth{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 500px;
+    width: 350px;
+    margin-left: 30px;
+}
+
+.borderyello{
+    border: solid 1px #ffd913;
+    border-radius: 4px ;
+    background-color: #ffd913;
+    justify-content: center;
+    display: flex;
+    width: 200px;
+    margin-left: 30px;
+    height: 80px;
+
+}
+
+.upgrade{
+    font-size: 25px;
+    font-weight: bold;
+}
+.small{
+    font-size: small;
+}
+.blue{
+    color: blue;
+}
+.imim{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+
+
+
+
