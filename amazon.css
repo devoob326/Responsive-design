@@ -256,6 +256,67 @@
     margin-left: 40px;
 }
 
+@media only screen and (max-width: 600px) {
+    .navbar {
+        flex-direction: column;
+        height: auto;
+        text-align: center;
+    }
+
+    .helloo, .searchbar, .indianflag, .signin, .return, .cart {
+        margin: 10px 0;
+    }
+
+    .btn, .type, .button {
+        width: 100%;
+    }
+
+    .deal {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .text {
+        margin: 5px 0;
+    }
+
+    .prime {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .p, .immg {
+        margin: 10px 0;
+    }
+
+    .imagebb {
+        background-size: cover;
+        padding: 10%;
+        margin-top: -10px;
+    }
+
+    .imgback {
+        padding: 10%;
+        padding-right: 2%;
+        padding-top: 10%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .first, .second, .third, .fourth, .fifth {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .images, .images1 {
+        grid-template-columns: 1fr;
+    }
+
+    .borderyello {
+        width: 100%;
+    }
+}
+
 
 
 
